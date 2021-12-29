@@ -1,0 +1,1012 @@
+{
+    "Countries": [
+        {
+            "Name": "Germany",
+            "Bands": [
+                {
+                    "Name": "Umbra et Imago",
+                    "Albums": [
+                        {
+                            "Name": "Mea Culpa",
+                            "Tracks": [
+                                {
+                                    "Name": "Lieber Gott",
+                                    "Features": [
+                                        {
+                                            "Year": "2000",
+                                            "Genre": "Gothic metal",
+                                            "Speed": "Medium",
+                                            "Mood": "6",
+                                            "Type": "-4",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Mystica",
+                            "Tracks": [
+                                {
+                                    "Name": "Horst du mein Rufen",
+                                    "Features": [
+                                        {
+                                            "Year": "1996",
+                                            "Genre": "Gothic metal",
+                                            "Speed": "Medium",
+                                            "Mood": "7",
+                                            "Type": "-8",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "ASP",
+                    "Albums": [
+                        {
+                            "Name": "Geist Erfahrer",
+                            "Tracks": [
+                                {
+                                    "Name": "Per aspera ad aspera",
+                                    "Features": [
+                                        {
+                                            "Year": "2016",
+                                            "Genre": "Industrial",
+                                            "Speed": "Medium",
+                                            "Mood": "3",
+                                            "Type": "5",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Hast Du Mich Vermisst?",
+                            "Tracks": [
+                                {
+                                    "Name": "Und wir tanzten",
+                                    "Features": [
+                                        {
+                                            "Year": "2000",
+                                            "Genre": "Industrial",
+                                            "Speed": "Low",
+                                            "Mood": "6",
+                                            "Type": "-6",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Tanzwut",
+                    "Albums": [
+                        {
+                            "Name": "Ihr Wolltet Spass",
+                            "Tracks": [
+                                {
+                                    "Name": "Caupona",
+                                    "Features": [
+                                        {
+                                            "Year": "2003",
+                                            "Genre": "Folk metal",
+                                            "Speed": "Low",
+                                            "Mood": "3",
+                                            "Type": "-4",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Weise Nachte",
+                            "Tracks": [
+                                {
+                                    "Name": "Weise Nachte",
+                                    "Features": [
+                                        {
+                                            "Year": "2011",
+                                            "Genre": "Folk metal",
+                                            "Speed": "Medium",
+                                            "Mood": "9",
+                                            "Type": "-3",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "In Extremo",
+                    "Albums": [
+                        {
+                            "Name": "Mein Rasend Herz",
+                            "Tracks": [
+                                {
+                                    "Name": "Liam",
+                                    "Features": [
+                                        {
+                                            "Year": "2005",
+                                            "Genre": "Folk metal",
+                                            "Speed": "High",
+                                            "Mood": "4",
+                                            "Type": "-2",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Weckt Die Toten",
+                            "Tracks": [
+                                {
+                                    "Name": "Ai vis lo lop",
+                                    "Features": [
+                                        {
+                                            "Year": "1998",
+                                            "Genre": "Folk metal",
+                                            "Speed": "Medium",
+                                            "Mood": "2",
+                                            "Type": "-6",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Suidakra",
+                    "Albums": [
+                        {
+                            "Name": "Book Of Dowth",
+                            "Tracks": [
+                                {
+                                    "Name": "Balor",
+                                    "Features": [
+                                        {
+                                            "Year": "2008",
+                                            "Genre": "Death metal",
+                                            "Speed": "High",
+                                            "Mood": "8",
+                                            "Type": "7",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Eternal Defiance",
+                            "Tracks": [
+                                {
+                                    "Name": "Dragon’s head",
+                                    "Features": [
+                                        {
+                                            "Year": "2013",
+                                            "Genre": "Death metal",
+                                            "Speed": "Medium",
+                                            "Mood": "2",
+                                            "Type": "6",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Accept",
+                    "Albums": [
+                        {
+                            "Name": "Objection Overruled",
+                            "Tracks": [
+                                {
+                                    "Name": "Amamos la vida",
+                                    "Features": [
+                                        {
+                                            "Year": "2015",
+                                            "Genre": "Heavy metal",
+                                            "Speed": "Low",
+                                            "Mood": "6",
+                                            "Type": "-7",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Breaker",
+                            "Tracks": [
+                                {
+                                    "Name": "Breaker",
+                                    "Features": [
+                                        {
+                                            "Year": "1981",
+                                            "Genre": "Heavy metal",
+                                            "Speed": "High",
+                                            "Mood": "5",
+                                            "Type": "4",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Poland",
+            "Bands": [
+                {
+                    "Name": "Kly",
+                    "Albums": [
+                        {
+                            "Name": "Wyrzyny",
+                            "Tracks": [
+                                {
+                                    "Name": "Gwiezdny wiatr",
+                                    "Features": [
+                                        {
+                                            "Year": "2020",
+                                            "Genre": "Atmospheric black metal",
+                                            "Speed": "Low",
+                                            "Mood": "-2",
+                                            "Type": "-8",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Radogost",
+                    "Albums": [
+                        {
+                            "Name": "Przeklety",
+                            "Tracks": [
+                                {
+                                    "Name": "Widma",
+                                    "Features": [
+                                        {
+                                            "Year": "2018",
+                                            "Genre": "Melodic death metal",
+                                            "Speed": "Medium",
+                                            "Mood": "8",
+                                            "Type": "-6",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Exmara",
+                                    "Features": [
+                                        {
+                                            "Year": "2018",
+                                            "Genre": "Melodic death metal",
+                                            "Speed": "Medium",
+                                            "Mood": "7",
+                                            "Type": "7",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Cinerarium",
+                    "Albums": [
+                        {
+                            "Name": "Midian",
+                            "Tracks": [
+                                {
+                                    "Name": "Pustynia",
+                                    "Features": [
+                                        {
+                                            "Year": "2004",
+                                            "Genre": "Doom metal",
+                                            "Speed": "High",
+                                            "Mood": "3",
+                                            "Type": "4",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Lord Wind",
+                    "Albums": [
+                        {
+                            "Name": "The Forest Is My Kingdom",
+                            "Tracks": [
+                                {
+                                    "Name": "Czarny Kruk",
+                                    "Features": [
+                                        {
+                                            "Year": "2012",
+                                            "Genre": "Folk metal",
+                                            "Speed": "Medium",
+                                            "Mood": "2",
+                                            "Type": "-3",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Zywiolak",
+                    "Albums": [
+                        {
+                            "Name": "Nowa ex-tradycja",
+                            "Tracks": [
+                                {
+                                    "Name": "Dziadyga",
+                                    "Features": [
+                                        {
+                                            "Year": "2008",
+                                            "Genre": "Folk metal",
+                                            "Speed": "High",
+                                            "Mood": "8",
+                                            "Type": "-1",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "France",
+            "Bands": [
+                {
+                    "Name": "Alcest",
+                    "Albums": [
+                        {
+                            "Name": "Kodama",
+                            "Tracks": [
+                                {
+                                    "Name": "Kodama",
+                                    "Features": [
+                                        {
+                                            "Year": "2016",
+                                            "Genre": "Blackgaze",
+                                            "Speed": "Low",
+                                            "Mood": "-2",
+                                            "Type": "-3",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Spiritual Instinct",
+                            "Tracks": [
+                                {
+                                    "Name": "Le Miroir",
+                                    "Features": [
+                                        {
+                                            "Year": "2019",
+                                            "Genre": "Blackgaze",
+                                            "Speed": "Low",
+                                            "Mood": "-3",
+                                            "Type": "-5",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Celestial Season",
+                    "Albums": [
+                        {
+                            "Name": "Lunchbox Dialogues",
+                            "Tracks": [
+                                {
+                                    "Name": "Decamerone",
+                                    "Features": [
+                                        {
+                                            "Year": "1993",
+                                            "Genre": "Atmospheric black metal",
+                                            "Speed": "Low",
+                                            "Mood": "-7",
+                                            "Type": "-8",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Master Boot Record",
+                    "Albums": [
+                        {
+                            "Name": "INTERRUPT REQUEST",
+                            "Tracks": [
+                                {
+                                    "Name": "Skynet",
+                                    "Features": [
+                                        {
+                                            "Year": "2017",
+                                            "Genre": "Industrial",
+                                            "Speed": "High",
+                                            "Mood": "-8",
+                                            "Type": "9",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Internet protocol",
+                            "Tracks": [
+                                {
+                                    "Name": "FTP",
+                                    "Features": [
+                                        {
+                                            "Year": "2019",
+                                            "Genre": "Industrial",
+                                            "Speed": "High",
+                                            "Mood": "-5",
+                                            "Type": "9",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Norway",
+            "Bands": [
+                {
+                    "Name": "Tiamat",
+                    "Albums": [
+                        {
+                            "Name": "Wildhoney",
+                            "Tracks": [
+                                {
+                                    "Name": "Gaia",
+                                    "Features": [
+                                        {
+                                            "Year": "1994",
+                                            "Genre": "Doom metal",
+                                            "Speed": "Low",
+                                            "Mood": "-1",
+                                            "Type": "-6",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Saturnus",
+                    "Albums": [
+                        {
+                            "Name": "Veronika Decides to Die",
+                            "Tracks": [
+                                {
+                                    "Name": "Empty handed",
+                                    "Features": [
+                                        {
+                                            "Year": "2006",
+                                            "Genre": "Melodic death metal",
+                                            "Speed": "Medium",
+                                            "Mood": "-7",
+                                            "Type": "-5",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Martyre",
+                            "Tracks": [
+                                {
+                                    "Name": "Murky Waters",
+                                    "Features": [
+                                        {
+                                            "Year": "2000",
+                                            "Genre": "Melodic death metal",
+                                            "Speed": "Medium",
+                                            "Mood": "-5",
+                                            "Type": "4",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "October Tide",
+                    "Albums": [
+                        {
+                            "Name": "Rain Without End",
+                            "Tracks": [
+                                {
+                                    "Name": "Nursed by the cold",
+                                    "Features": [
+                                        {
+                                            "Year": "1997",
+                                            "Genre": "Melodic death metal",
+                                            "Speed": "Low",
+                                            "Mood": "-9",
+                                            "Type": "1",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stratovarius",
+                    "Albums": [
+                        {
+                            "Name": "Twilight Time",
+                            "Tracks": [
+                                {
+                                    "Name": "Black diamond",
+                                    "Features": [
+                                        {
+                                            "Year": "1992",
+                                            "Genre": "Death metal",
+                                            "Speed": "High",
+                                            "Mood": "6",
+                                            "Type": "3",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Korpiklaani",
+                    "Albums": [
+                        {
+                            "Name": "Karkelo",
+                            "Tracks": [
+                                {
+                                    "Name": "Kotikonnut",
+                                    "Features": [
+                                        {
+                                            "Year": "2009",
+                                            "Genre": "Folk metal",
+                                            "Speed": "High",
+                                            "Mood": "8",
+                                            "Type": "5",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Manala",
+                            "Tracks": [
+                                {
+                                    "Name": "Harmaja",
+                                    "Features": [
+                                        {
+                                            "Year": "2012",
+                                            "Genre": "Folk metal",
+                                            "Speed": "Low",
+                                            "Mood": "5",
+                                            "Type": "-8",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Einherjer",
+                    "Albums": [
+                        {
+                            "Name": "Blot",
+                            "Tracks": [
+                                {
+                                    "Name": "Mot Vest",
+                                    "Features": [
+                                        {
+                                            "Year": "2003",
+                                            "Genre": "Death metal",
+                                            "Speed": "High",
+                                            "Mood": "-3",
+                                            "Type": "7",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Arktau Eos",
+                    "Albums": [
+                        {
+                            "Name": "Geometry of Emptiness",
+                            "Tracks": [
+                                {
+                                    "Name": "Obsidian Pyramid",
+                                    "Features": [
+                                        {
+                                            "Year": "2005",
+                                            "Genre": "Atmospheric black metal",
+                                            "Speed": "Low",
+                                            "Mood": "-9",
+                                            "Type": "-1",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Apocalypse Orchestra",
+                    "Albums": [
+                        {
+                            "Name": "Flagellants' Song",
+                            "Tracks": [
+                                {
+                                    "Name": "Flagellants' Song",
+                                    "Features": [
+                                        {
+                                            "Year": "2017",
+                                            "Genre": "Folk metal",
+                                            "Speed": "Low",
+                                            "Mood": "-2",
+                                            "Type": "4",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Swallow the Sun",
+                    "Albums": [
+                        {
+                            "Name": "Ghosts of Loss",
+                            "Tracks": [
+                                {
+                                    "Name": "Lumina Aurea",
+                                    "Features": [
+                                        {
+                                            "Year": "2005",
+                                            "Genre": "Melodic death metal",
+                                            "Speed": "Low",
+                                            "Mood": "-8",
+                                            "Type": "6",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Russia",
+            "Bands": [
+                {
+                    "Name": "Культура Курения",
+                    "Albums": [
+                        {
+                            "Name": "Культура Курения",
+                            "Tracks": [
+                                {
+                                    "Name": "Элла",
+                                    "Features": [
+                                        {
+                                            "Year": "2013",
+                                            "Genre": "Black metal",
+                                            "Speed": "Low",
+                                            "Mood": "-7",
+                                            "Type": "6",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Autumn Nostalgie",
+                    "Albums": [
+                        {
+                            "Name": "Esse Est Percipi",
+                            "Tracks": [
+                                {
+                                    "Name": "The hidden lake of the forest",
+                                    "Features": [
+                                        {
+                                            "Year": "2020",
+                                            "Genre": "Black metal",
+                                            "Speed": "Low",
+                                            "Mood": "-4",
+                                            "Type": "3",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Экклесиаст",
+                    "Albums": [
+                        {
+                            "Name": "Холод",
+                            "Tracks": [
+                                {
+                                    "Name": "Звезды твоего неба",
+                                    "Features": [
+                                        {
+                                            "Year": "2005",
+                                            "Genre": "Atmospheric black metal",
+                                            "Speed": "Low",
+                                            "Mood": "-3",
+                                            "Type": "-5",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Isa",
+                    "Albums": [
+                        {
+                            "Name": "Песни мёртвых",
+                            "Tracks": [
+                                {
+                                    "Name": "Слепой",
+                                    "Features": [
+                                        {
+                                            "Year": "2013",
+                                            "Genre": "Atmospheric black metal",
+                                            "Speed": "Low",
+                                            "Mood": "-5",
+                                            "Type": "-4",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Гроза на том берегу",
+                                    "Features": [
+                                        {
+                                            "Year": "2013",
+                                            "Genre": "Atmospheric black metal",
+                                            "Speed": "Low",
+                                            "Mood": "-1",
+                                            "Type": "-3",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Pantograph",
+                    "Albums": [
+                        {
+                            "Name": "My Electric Hell",
+                            "Tracks": [
+                                {
+                                    "Name": "Power down",
+                                    "Features": [
+                                        {
+                                            "Year": "2019",
+                                            "Genre": "Industrial",
+                                            "Speed": "High",
+                                            "Mood": "3",
+                                            "Type": "8",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Aut Mori",
+                    "Albums": [
+                        {
+                            "Name": "Первая слеза осени",
+                            "Tracks": [
+                                {
+                                    "Name": "Первая слеза осени",
+                                    "Features": [
+                                        {
+                                            "Year": "2012",
+                                            "Genre": "Atmospheric black metal",
+                                            "Speed": "Low",
+                                            "Mood": "-5",
+                                            "Type": "-3",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Tears of Mankind",
+                    "Albums": [
+                        {
+                            "Name": "К одиночеству",
+                            "Tracks": [
+                                {
+                                    "Name": "Листопад",
+                                    "Features": [
+                                        {
+                                            "Year": "2006",
+                                            "Genre": "Doom metal",
+                                            "Speed": "Low",
+                                            "Mood": "-4",
+                                            "Type": "-7",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "USA",
+            "Bands": [
+                {
+                    "Name": "Vale",
+                    "Albums": [
+                        {
+                            "Name": "Burden of Sight",
+                            "Tracks": [
+                                {
+                                    "Name": "Lavender",
+                                    "Features": [
+                                        {
+                                            "Year": "2019",
+                                            "Genre": "Black metal",
+                                            "Speed": "Low",
+                                            "Mood": "1",
+                                            "Type": "-7",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Agalloch",
+                    "Albums": [
+                        {
+                            "Name": "Ashes Against the Grain",
+                            "Tracks": [
+                                {
+                                    "Name": "Limbs",
+                                    "Features": [
+                                        {
+                                            "Year": "2006",
+                                            "Genre": "Melodic death metal",
+                                            "Speed": "Medium",
+                                            "Mood": "-4",
+                                            "Type": "6",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Our fortress is burning",
+                                    "Features": [
+                                        {
+                                            "Year": "2006",
+                                            "Genre": "Melodic death metal",
+                                            "Speed": "Low",
+                                            "Mood": "-3",
+                                            "Type": "-4",
+                                            "Energy": "High"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Nadja",
+                    "Albums": [
+                        {
+                            "Name": "Skin Turns to Glass",
+                            "Tracks": [
+                                {
+                                    "Name": "Skin turns to glass",
+                                    "Features": [
+                                        {
+                                            "Year": "2003",
+                                            "Genre": "Blackgaze",
+                                            "Speed": "High",
+                                            "Mood": "-3",
+                                            "Type": "7",
+                                            "Energy": "Low"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
